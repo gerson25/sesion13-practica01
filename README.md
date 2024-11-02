@@ -1,3 +1,3 @@
 # integrantes
-Gerson Vargas
-Andrés Arroyo
+<p>Gerson Vargas</p>
+<p>Andrés Arroyo</p>
